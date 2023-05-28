@@ -1,0 +1,6 @@
+name: BeefSpawn
+version: '${project.version}'
+main: ru.whitebeef.beefspawn.BeefSpawn
+api-version: 1.19
+depend: [ BeefLibrary ]
+authors: [ WhiteBeef ]

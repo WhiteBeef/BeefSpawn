@@ -1,0 +1,11 @@
+spawn_location:
+  world: spawnSMP
+  x: -81.5
+  y: -14.0
+  z: -69.5
+  pitch: 0
+  yaw: 180
+messages:
+  will_tp: 'Вы будете телепортированы через 5 сек. не двигайтесь!'
+  cancel_tp: 'Вы двинулись! Телепортация отменена!'
+  successful_tp: 'Телепортирование...'
